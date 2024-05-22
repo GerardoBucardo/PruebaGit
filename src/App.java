@@ -59,6 +59,7 @@ public class App {
         m.Concentrarse();
         m.Viajar();
         m.DarMasaje();
-        System.out.println("");
+        System.out.println("Hola");
+        System.out.println("Esta es una prueba ");
     }
 }
